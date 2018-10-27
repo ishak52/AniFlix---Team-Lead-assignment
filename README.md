@@ -16,7 +16,7 @@
 * login/logout in the platform.
 * view all videos exist in the platform.
 * view any video when I click on it.
-* search for any video I want acording to it's category filterd by(animal name,most viewed,most pupular).
+* search for any video I want according to its category filtered by(animal name).
 
 ## How to run website locally:
 * Clone this repository.
